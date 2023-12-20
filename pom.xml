@@ -60,6 +60,9 @@
 		</dependency>
 	</dependencies>
 
+    <!-- Otras dependencias -->
+    	
+
 	<build>
 		<plugins>
 			<plugin>
